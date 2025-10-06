@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+ccxt
+statsmodels
+neuralprophet
+xgboost
+lightgbm
+tqdm
+streamlit
+plotly
